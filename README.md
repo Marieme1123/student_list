@@ -48,16 +48,16 @@ $url = 'http://api:5000/pozos/api/v1.0/get_student_ages';
 Construction de l'image API basée sur python:3.13-slim.
 
 ### ÉTAPE 4 — Build et test de l'API seule
-![curl API](screenshots/curl.png)
+
 
 ### ÉTAPE 5 — Test sur le navigateur
-![navigateur API](screenshots/browser_api.png)
+
 
 ### ÉTAPE 6 — Déploiement avec Docker Compose
-![docker compose ps](screenshots/compose_ps.png)
+
 
 ### ÉTAPE 7 — Application web
-![site web](screenshots/website.png)
+
 
 ### ÉTAPE 8 — Registre Docker privé
-![registre](screenshots/registry.png)
+
